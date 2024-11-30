@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Current</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_developer_page">About Developer Page</string>
+    <string name="welcome">Welcome</string>
+    <string name="clear">Clear</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="calculate_your_electric_bill">CALCULATE YOUR ELECTRIC BILL</string>
+    <string name="todo">TODO</string>
+    <string name="enter_electricity_unit_used_kwh">Enter Electricity Unit Used (kwh)</string>
+    <string name="enter_rebate_percentages">Enter Rebate Percentages</string>
+    <string name="todo2">TODO</string>
+    <string name="developer_your_name">Developer: Your Name</string>
+    <string name="email_your_email_example_com">Email: your.email@example.com</string>
+    <string name="this_app_is_developed_to_calculate_electricity_bills_efficiently">This app is developed to calculate electricity bills efficiently.</string>
+    <string name="fajrul_farihin_mohd_bokhori">FAJRUL FARIHIN MOHD BOKHORI</string>
+    <string name="_2023169033">2023169033</string>
+    <string name="back_to_main_screen">Back to Main Screen</string>
+    <string name="_2024_current_all_rights_reserved">© 2024 Current. All rights reserved.</string>
+    <string name="visit_https_github_com_fajrulfarihin_current">Visit https://github.com/FajrulFarihin/Current</string>
+    <string name="ict602">ICT602</string>
+    <string name="cdcs2404b">CDCS2404B</string>
+</resources>

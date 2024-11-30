@@ -1,0 +1,13 @@
+<resources>
+    <color name="my_primary_color">#6200EE</color> <!-- Purple for primary elements -->
+    <color name="my_primary_variant">#3700B3</color> <!-- Darker purple for containers -->
+    <color name="my_secondary_color">#03DAC6</color> <!-- Teal for accents -->
+    <color name="my_status_bar_color">#3700B3</color> <!-- Darker purple for the status bar -->
+    <color name="my_background_color">#FFFFFF</color> <!-- White background -->
+    <color name="grey_primary">#616161</color> <!-- Primary grey (e.g., toolbar, buttons) -->
+    <color name="grey_primary_variant">#424242</color> <!-- Darker grey for containers -->
+    <color name="grey_secondary">#757575</color> <!-- Accent grey (e.g., secondary elements) -->
+    <color name="grey_status_bar">#424242</color> <!-- Status bar -->
+    <color name="grey_background">#E0E0E0</color> <!-- Light grey background -->
+    <color name="white">#FFFFFF</color> <!-- White for text -->
+</resources>

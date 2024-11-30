@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="318dp"
+        android:layout_height="704dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/profile"
+        tools:layout_editor_absoluteY="-68dp" />
+
+    <TextView
+        android:id="@+id/tName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FAJRUL FAIHIN BIN MOHAMMAD BOKHORI"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="443dp" />
+
+    <TextView
+        android:id="@+id/group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="CDCS2404A"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@+id/stuId"
+        tools:layout_editor_absoluteX="66dp" />
+
+    <TextView
+        android:id="@+id/stuId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="2023169033"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@+id/tName"
+        tools:layout_editor_absoluteX="66dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/top_tight" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/bottom_left" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
